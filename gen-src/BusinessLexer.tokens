@@ -1,0 +1,16 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+K_INSTANCE=5
+K_CONTEXT=6
+K_ID=7
+IDENTIFIER=8
+WS=9
+'('=1
+')'=2
+':'=3
+'"'=4
+'instance'=5
+'context'=6
+'id'=7
